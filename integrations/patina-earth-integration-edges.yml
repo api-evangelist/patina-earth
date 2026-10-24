@@ -1,0 +1,18 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/patina-earth/integrations
+- https://zapier.com/apps/patina/integrations
+- https://n8n.io/integrations/patina-earth/
+- https://composio.dev/toolkits/patina-earth
+- https://monid.ai/tools/patina-earth
+checked:
+- https://composio.dev/toolkits/patina-earth
+- https://monid.ai/tools/patina-earth
+- https://n8n.io/integrations/patina-earth/
+- https://zapier.com/apps/patina-earth/integrations
+- https://zapier.com/apps/patina/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
